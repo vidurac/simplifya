@@ -22,8 +22,8 @@ return [
     //'secret' => '1XlqaYA4ZFfNEqhUGTRh3gAkeuMNk+AfRjTzH04k',
 
     'credentials' => [
-        'key'    => 'AKIAIGOWJPK7E74ONMIA',
-        'secret' => '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',
+        'key'    => '',
+        'secret' => '',
     ],
 
     /*
